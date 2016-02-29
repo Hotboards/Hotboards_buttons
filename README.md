@@ -1,7 +1,7 @@
 Hotboards_buttons
 =================
 
-Genial libreria de proposito general para leer botones mecanicos, puedes saber cuando han sido presionados o soltados, ademas de saber su estado en todo momento. Descarga la libreria en formato [**zip**](https://github.com/Hotboards/Hotboards_buittons/archive/master.zip), renombra el archivo ( _solo quita el **-master**_ ) e importala a tu Arduino IDE com dice [aqui](http://developer.mbed.org/cookbook/Working-with-Libraries).
+Genial libreria de proposito general para leer botones mecanicos, puedes saber cuando han sido presionados o soltados, ademas de saber su estado en todo momento. Descarga la libreria en formato [**zip**](https://github.com/Hotboards/Hotboards_buttons/archive/master.zip), renombra el archivo ( _solo quita el **-master**_ ) e importala a tu Arduino IDE com dice [aqui](http://developer.mbed.org/cookbook/Working-with-Libraries).
 
 API
 ---
